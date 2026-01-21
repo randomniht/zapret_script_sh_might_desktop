@@ -1,0 +1,1 @@
+# zapret_script_sh_might_desktop
