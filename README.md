@@ -40,3 +40,5 @@ Zapret is ACTIVE (Ctrl+C to stop)
 
 Stopping Zapret...
 
+## killall zapret
+
