@@ -1,3 +1,17 @@
+First
+download 
+bash <(curl -s https://raw.githubusercontent.com/kartavkun/zapret-discord-youtube/main/setup.sh | psub)
+second 
+zapret_upt.sh download
+when
+chmod +x zapret_upt.sh
+and run
+./zapret_upt.sh
+
+
+
+
+
 **Zapret Toggle Script**  
 Simple one-command tool to start/stop Zapret DPI bypass services with graceful Ctrl+C shutdown.
 
